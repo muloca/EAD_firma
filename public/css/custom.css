@@ -1,0 +1,28 @@
+/* 
+Cores
+azul #004D81
+verde #2BB5B4
+*/
+
+.btn-instagram{
+    background-image: linear-gradient(to bottom right, #405DE6, #833AB4, #C13584);
+    color: white;
+}
+
+.btn-facebook{
+    background-image: linear-gradient(to bottom right, #4267B2, #898F9C);
+    color: white;
+}
+
+.card-header-pagante{
+    background-color: #2BB5B4;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.a-pagante{
+    text-decoration: none;
+    color: green;
+}
